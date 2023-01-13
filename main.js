@@ -78,3 +78,5 @@ const deleteReservation = (seatCode) => {
   DB.splice(indexObject, 1);
   showTable();
 };
+
+//Testing GIT
